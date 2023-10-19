@@ -1,0 +1,11 @@
+---
+title: Test Doc
+author: Eli Mizrachi (they/them)
+date: 2023-09-08
+format: 
+    html: default
+---
+
+{{< embed nb1.ipynb#out1 >}}
+
+{{< embed nb2.ipynb#out1 >}}
